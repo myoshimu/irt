@@ -1,1 +1,1 @@
-# 項目反応理論による価格反応推定
+#　Price response estimation by item response theory
